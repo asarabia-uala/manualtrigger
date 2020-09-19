@@ -1,5 +1,6 @@
 name: 'M'
 on: 
+  pull_request:
   workflow_dispatch:
     inputs:
       logLevel:
