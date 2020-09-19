@@ -1,3 +1,4 @@
+name: 'M'
 on: 
   workflow_dispatch:
     inputs:
